@@ -1,1 +1,2 @@
 # Flight-data-analysis
+Flight data analysis is a project that involves the application of machine learning and data analysis techniques to extract valuable insights from vast amounts of flight data. This data includes various sources such as sensor readings, maintenance logs, pilot reports, weather data, and more. The goal of flight data analysis is to improve flight safety, optimize operations, and enhance overall aircraft performance.
